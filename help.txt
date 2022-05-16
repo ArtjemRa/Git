@@ -1,0 +1,6 @@
+git cinfig --global user.name - (где мы находимся)
+git init - (запустить гит в папке)
+ls - (список файлов посмотреть)
+git remote add origin https://github.com/ArtjemRa/Git.git - (подключить локальный к облаку)
+git status - (посмотреть что загружено, а что нет)
+git add . -(добавить все файлы)
